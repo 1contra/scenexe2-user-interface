@@ -9,7 +9,7 @@ go to `https://scenexe2-profiles.com/link` to link your discord avatar and add y
 you can also view the public page at `https://scenexe2-profiles.com/account/{account_name}`
 
 rip ivy
-(keeping this here in)
+(keeping this here tho)
 
 ```
 This is a work in progress, if there are bugs/suggestions please 
